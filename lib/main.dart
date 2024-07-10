@@ -6,11 +6,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// void main() async {
-//   WidgetsFlutterBinding.ensureInitialized();
-//   await Get.putAsync<MyController>(() => MyController()); // Replace with your controller
-//   runApp(MyApp());
-// }
 
 
 class MyApp extends StatelessWidget {
